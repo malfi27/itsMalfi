@@ -7,7 +7,7 @@
   <li>🌱 I’m currently learning ReactJs And NextJs</li>
 </ul>
 <h3 align="left">Languages and Tools:</h3>
-<p style="margin-bottom : 1rem;" align="left">
+<p style="margin-bottom : 10rem;" align="left">
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
     <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" />
   </a>
