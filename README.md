@@ -1,8 +1,7 @@
 <h1 align="start">Hi 👋, I'm M Alfito Rahman</h1>
 <h3 align="start">A passionate frontend developer from Indonesia, Excited to create open-source projects</h3>
 <ul>
-  <li>🔭 I’m currently working on Startcode ID you can chek startcode Website 👉 https://startcode.id/</li>
-  <li>📫 You can reach me at my instagram **https://www.instagram.com/malfi27/**</li>
+  <li>🔭 I’m currently working on Redhunter ID</li>
   <li>😁 I'm natively speak Indonesian and fluently speak english.</li>
   <li>🌱 I’m currently learning ReactJs And NextJs</li>
 </ul>
